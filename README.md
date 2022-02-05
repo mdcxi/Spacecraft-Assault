@@ -1,2 +1,2 @@
 # Spacecraft-Assault
-Just a combat between you (the main spacecraft) and the NPCs (other spacecrafts)
+This project is under development, I'll try to finalize it s00n (maybe within a week). :)
