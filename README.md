@@ -1,5 +1,23 @@
 # Spacecraft-Assault
 
-This game is 𝐮𝐧𝐝𝐞𝐫 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭, I'll try to finalize it soon :)
+This game is developed for 𝗘𝗗𝗨𝗖𝗔𝗧𝗜𝗢𝗡𝗔𝗟 𝗣𝗨𝗥𝗣𝗢𝗦𝗘𝗦 𝗢𝗡𝗟𝗬, 𝗡𝗢 𝗖𝗢𝗠𝗠𝗘𝗥𝗖𝗜𝗔𝗟 𝗥𝗘𝗟𝗘𝗔𝗦𝗘.
 
-![Untitled](https://user-images.githubusercontent.com/97457787/152677102-c03bde12-c86a-4ccb-a2b4-b688415bc001.png)
+𝐆𝐚𝐦𝐞 𝐢𝐧𝐬𝐭𝐫𝐮𝐜𝐭𝐢𝐨𝐧: Protect your planet from the invaders.
+
+Using 𝐀,𝐒,𝐖,𝐃 or 𝐚𝐫𝐫𝐨𝐰 𝐛𝐮𝐭𝐭𝐨𝐧𝐬 to control the player (the main spacecraft).
+
+Hold left mouse click to shoot the enemies (NPCs) 
+
+Dodge the enemies otherwise you'll have to start again.
+
+This game is quite short, but It took me a week to build lmao =))))). I'm glad that it was finally complete.
+
+----------------------𝐇𝐄𝐑𝐄 𝐈𝐒 𝐆𝐀𝐌𝐄 𝐒𝐇𝐎𝐖𝐂𝐀𝐒𝐄----------------------
+
+𝐌𝐀𝐈𝐍 𝐌𝐄𝐍𝐔
+![main](https://user-images.githubusercontent.com/97457787/153487634-97c80e49-0949-4999-9f6e-db1bb117cc9f.png)
+
+𝐆𝐀𝐌𝐄𝐏𝐋𝐀𝐘
+![GAMEPLAY](https://user-images.githubusercontent.com/97457787/153487840-7ea92176-6b50-475d-822d-df29b3ea098a.png)
+
+
